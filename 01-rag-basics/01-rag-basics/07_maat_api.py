@@ -20,7 +20,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-KNOWLEDGE_BASE_PATH = "/Users/sidart/moor-ai-systems/maat_knowledge_base"
+KNOWLEDGE_BASE_PATH = "/app/maat_knowledge_base"
 embeddings = OpenAIEmbeddings()
 
 print("Loading MAAT knowledge base...")
