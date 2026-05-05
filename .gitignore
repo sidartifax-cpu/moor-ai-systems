@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+maat_knowledge_base/
+01-rag-basics/*.pdf
+maat_website_content.txt
+maat_membership_info.txt
